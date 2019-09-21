@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf85e39a-c9b6-4b7f-b96e-def6cb5e884b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.wp-config-sample.php.swp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-config-sample.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config-sample.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fictional-universtity-theme/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-universtity-theme/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fictional-universtity-theme/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-universtity-theme/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/fictional-universtity-theme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/fictional-universtity-theme/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +17,7 @@
     <session id="1874358229">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="2" />
@@ -40,10 +40,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1296" />
-    <option name="y" value="55" />
+    <option name="x" value="416" />
+    <option name="y" value="23" />
     <option name="width" value="1232" />
-    <option name="height" value="1314" />
+    <option name="height" value="988" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -112,7 +112,7 @@
     <option name="totallyTimeSpent" value="1281000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1296" y="55" width="1232" height="1314" extended-state="0" />
+    <frame x="416" y="23" width="1232" height="988" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16806723" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

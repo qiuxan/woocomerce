@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/bbtheme/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/brain/hierarchy" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/illuminate/config" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/illuminate/console" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/illuminate/container" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/illuminate/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/illuminate/events" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/illuminate/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/illuminate/support" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/illuminate/view" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/roots/sage-installer" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/roots/sage-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/soberwp/controller" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/squizlabs/php_codesniffer" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/symfony/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/bbtheme/vendor/symfony/translation" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

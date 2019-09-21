@@ -1,0 +1,15 @@
+/** Import Bootstrap functions */
+@import "~bootstrap/scss/functions";
+
+$footercolor:#e9f0ee;
+$buttoncolor:#ef8b73;
+$slogancolor:#00866b;
+
+$theme-colors: (
+  primary: #525ddc,
+  footercolor:#e9f0ee,
+);
+
+/** Bootstrap navbar fix (https://git.io/fADqW) */
+$navbar-dark-toggler-icon-bg: none;
+$navbar-light-toggler-icon-bg: none;

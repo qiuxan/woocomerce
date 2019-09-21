@@ -1,0 +1,57 @@
+.banner .nav li {
+  @extend .nav-item;
+}
+
+.banner .nav a {
+  @extend .nav-link;
+}
+
+header {
+  position: relative;
+  background-image: url("../../images/bg_image.jpg");
+  background-size: 100% 100%;
+  height: 65%;
+}
+
+.triangle {
+  width: 0;
+  height: 50px;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 35px solid $footercolor;
+
+  /* border-bottom: 70px solid #0c5460; */
+  position: absolute;
+  bottom: 0;
+  left: 48%;
+}
+
+.info-card {
+  margin-top: 5rem;
+}
+
+.logo-img {
+  height: 3rem;
+}
+
+.card {
+  border: none;
+  width: 85%;
+  background: rgba(255, 255, 255, 0.6);
+  z-index: 10;
+}
+
+.card button {
+  padding: 8px 4rem;
+  color: white;
+  background: $buttoncolor;
+  border: none;
+  font-size: 70%;
+}
+
+.subtitle {
+  font-family: abril-display, serif;
+  font-weight: 600;
+  font-style: italic;
+  color: $slogancolor;
+}
