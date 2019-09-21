@@ -128,7 +128,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/btheme/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -309,12 +313,12 @@
       <updated>1568965811358</updated>
       <workItem from="1568965813257" duration="358000" />
       <workItem from="1568966980601" duration="3320000" />
-      <workItem from="1568973735995" duration="15294000" />
+      <workItem from="1568973735995" duration="15524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18972000" />
+    <option name="totallyTimeSpent" value="19202000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1296" y="55" width="1232" height="1314" extended-state="0" />
@@ -652,7 +656,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/btheme/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
