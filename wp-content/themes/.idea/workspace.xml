@@ -2,62 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9c8075a-f058-43bb-95da-423d3e8dbab0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/04d1bf6c-070d-4b7e-9498-6051c9f0c349.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/065a6b14-b2cc-446e-9428-271c570df0d9.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/3c210c80-960f-4684-850b-25390b4d08af.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/476612d9-282d-4f76-95cd-b4dd31e7ed21.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/61bd362e-7162-46bd-b67e-28f366c4afbe.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/65d75eb0-2601-4da5-a9a4-9ee67a470a59.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/710789a0-1557-48a1-8cec-03d52d663d74.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/9ced8e96-4602-4507-8c20-4ff381949a9a.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/c70e90bc-3c94-41dc-bf14-caa727c76301.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/cb5c71ad-e582-4d00-929c-67fbfaeb1c27.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/ccd17c6b-e7ed-4b73-b0d2-76712a4ef46b.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/d8c50fcc-bc32-4f31-8c24-b170c64e2254.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/e6b412d9-d1ed-4b17-bb93-a6911df8640d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/Fonts/f1ebae2b-5296-4244-8771-5f40e60a564a.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/04d1bf6c-070d-4b7e-9498-6051c9f0c349.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/065a6b14-b2cc-446e-9428-271c570df0d9.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/3c210c80-960f-4684-850b-25390b4d08af.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/476612d9-282d-4f76-95cd-b4dd31e7ed21.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/61bd362e-7162-46bd-b67e-28f366c4afbe.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/65d75eb0-2601-4da5-a9a4-9ee67a470a59.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/710789a0-1557-48a1-8cec-03d52d663d74.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/9ced8e96-4602-4507-8c20-4ff381949a9a.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/c70e90bc-3c94-41dc-bf14-caa727c76301.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/cb5c71ad-e582-4d00-929c-67fbfaeb1c27.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/ccd17c6b-e7ed-4b73-b0d2-76712a4ef46b.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/d8c50fcc-bc32-4f31-8c24-b170c64e2254.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/e6b412d9-d1ed-4b17-bb93-a6911df8640d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/fonts/f1ebae2b-5296-4244-8771-5f40e60a564a.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/images/bg_image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/assets/images/horizontal.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/404.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/page.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/partials/comments.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/partials/content-page.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/partials/content-search.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/partials/content-single.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/partials/content.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/partials/entry-meta.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/partials/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/partials/head.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/partials/header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/partials/page-header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/partials/sidebar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/search.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/single.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btheme/resources/views/template-custom.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fictional-universtity-theme/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fictional-universtity-theme/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fictional-universtity-theme/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/fictional-universtity-theme/screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fictional-universtity-theme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/fictional-universtity-theme/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btheme/resources/assets/styles/layouts/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/btheme/resources/assets/styles/layouts/_header.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,32 +26,34 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="5" />
-          <entry key="jpg" value="1" />
+          <entry key="css" value="6" />
+          <entry key="jpg" value="2" />
           <entry key="js" value="6" />
-          <entry key="json" value="7" />
+          <entry key="json" value="10" />
           <entry key="lock" value="2" />
-          <entry key="php" value="25" />
-          <entry key="scss" value="18" />
+          <entry key="md" value="1" />
+          <entry key="php" value="30" />
+          <entry key="scss" value="19" />
           <entry key="svg" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Blade" value="18" />
-          <entry key="CSS" value="5" />
-          <entry key="Image" value="1" />
-          <entry key="JSON" value="8" />
+          <entry key="CSS" value="6" />
+          <entry key="Image" value="2" />
+          <entry key="JSON" value="11" />
           <entry key="JavaScript" value="6" />
-          <entry key="PHP" value="7" />
-          <entry key="SCSS" value="18" />
+          <entry key="Markdown" value="1" />
+          <entry key="PHP" value="12" />
+          <entry key="SCSS" value="19" />
           <entry key="SVG" value="1" />
           <entry key="yarn.lock" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="json" value="27" />
+          <entry key="json" value="29" />
           <entry key="php" value="211" />
           <entry key="scss" value="369" />
         </counts>
@@ -113,7 +61,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Blade" value="211" />
-          <entry key="JSON" value="27" />
+          <entry key="JSON" value="29" />
           <entry key="SCSS" value="369" />
         </counts>
       </usages-collector>
@@ -130,29 +78,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/btheme/resources/views/partials/header.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/btheme/resources/views/partials/head.blade.php">
+        <entry file="file://$PROJECT_DIR$/btheme/composer.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="3" column="88" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/btheme/resources/assets/styles/layouts/_footer.scss">
+        <entry file="file://$PROJECT_DIR$/btheme/app/setup.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="-1989" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/btheme/app/helpers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2616" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/btheme/app/filters.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/btheme/app/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/btheme/resources/assets/styles/layouts/_header.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -160,51 +127,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/btheme/resources/index.php">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/btheme/resources/assets/styles/layouts/_pages.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/btheme/resources/assets/config.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/btheme/dist/styles/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="16698" selection-start-line="16698" selection-end-line="16698" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/btheme/resources/assets/styles/main.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/btheme/resources/assets/styles/layouts/_header.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -225,6 +147,9 @@
       <find>a</find>
       <find>/wp-content/themes/btheme/</find>
       <find>create</find>
+      <find>card</find>
+      <find>test</find>
+      <find>wordpress.test</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -243,16 +168,17 @@
         <option value="$PROJECT_DIR$/btheme/resources/assets/styles/main.scss" />
         <option value="$PROJECT_DIR$/btheme/resources/fonts.css" />
         <option value="$PROJECT_DIR$/btheme/resources/assets/build/helpers/public-path.js" />
-        <option value="$PROJECT_DIR$/btheme/resources/assets/config.json" />
         <option value="$PROJECT_DIR$/btheme/resources/assets/styles/common/_global.scss" />
         <option value="$PROJECT_DIR$/btheme/resources/views/partials/head.blade.php" />
         <option value="$PROJECT_DIR$/btheme/resources/assets/styles/common/_variables.scss" />
-        <option value="$PROJECT_DIR$/btheme/resources/assets/styles/layouts/_header.scss" />
         <option value="$PROJECT_DIR$/btheme/resources/views/partials/footer.blade.php" />
         <option value="$PROJECT_DIR$/btheme/resources/views/index.blade.php" />
         <option value="$PROJECT_DIR$/btheme/resources/assets/styles/layouts/_footer.scss" />
         <option value="$PROJECT_DIR$/btheme/resources/assets/styles/layouts/_pages.scss" />
         <option value="$PROJECT_DIR$/btheme/resources/views/partials/header.blade.php" />
+        <option value="$PROJECT_DIR$/btheme/resources/assets/config.json" />
+        <option value="$PROJECT_DIR$/btheme/resources/style.css" />
+        <option value="$PROJECT_DIR$/btheme/resources/assets/styles/layouts/_header.scss" />
       </list>
     </option>
   </component>
@@ -340,15 +266,24 @@
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="btheme" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="themes" type="b2602c69:ProjectViewProjectNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="btheme" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="themes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="btheme" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -396,12 +331,12 @@
       <updated>1568965811358</updated>
       <workItem from="1568965813257" duration="358000" />
       <workItem from="1568966980601" duration="3320000" />
-      <workItem from="1568973735995" duration="13425000" />
+      <workItem from="1568973735995" duration="14509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17103000" />
+    <option name="totallyTimeSpent" value="18187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1296" y="55" width="1232" height="1314" extended-state="0" />
@@ -435,13 +370,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bbtheme/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bbtheme/resources/views/partials/content.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -542,17 +470,7 @@
     <entry file="file://$PROJECT_DIR$/btheme/resources/views/404.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/btheme/resources/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/btheme/resources/assets/images/horizontal.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/btheme/dist/images/bg_image.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/btheme/config/assets.php">
@@ -603,18 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/btheme/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-413" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/btheme/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/btheme/resources/assets/styles/common/_global.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="41">
@@ -653,24 +559,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/btheme/resources/assets/styles/layouts/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/btheme/dist/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="16698" selection-start-line="16698" selection-end-line="16698" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/btheme/resources/assets/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -681,13 +573,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/btheme/resources/index.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/btheme/resources/assets/styles/layouts/_footer.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -698,6 +587,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/resources/views/partials/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/resources/assets/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-4742" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/resources/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/btheme/resources/views/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -705,10 +629,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/btheme/resources/views/partials/header.blade.php">
+    <entry file="file://$PROJECT_DIR$/btheme/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        <state relative-caret-position="88">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/app/setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1989" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/app/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2616" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/app/filters.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/dist/images/bg_image.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/resources/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/app/Controllers/App.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="25" column="84" selection-start-line="25" selection-start-column="84" selection-end-line="25" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/app/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/btheme/resources/assets/styles/layouts/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
         </state>
       </provider>
     </entry>
